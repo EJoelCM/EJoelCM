@@ -24,7 +24,7 @@
   <tr>
     <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_1" width="200"></td>
     <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_2" width="200"></td>
-    <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_3" width="200"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="200"></td>
   </tr>
   <tr>
     <td>➮ Un juego interactivo en el que los jugadores intentan adivinar un número secreto dentro de un rango determinado.<br>🔗 <a href="https://github.com/EJoelCM/juego-secreto">Repositorio del proyecto</a></td>
