@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyb3r-girl&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=EJoelCM&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
