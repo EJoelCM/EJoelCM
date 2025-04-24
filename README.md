@@ -19,7 +19,6 @@
   <tr>
     <th>Juego del Número Secreto</th>
     <th>Challenge del Amigo Secreto</th>
-    <th>Portafolio Profesional</th>
   </tr>
   <tr>
     <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_1" width="200"></td>
