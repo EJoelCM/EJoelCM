@@ -10,6 +10,27 @@
 - 🎓 Soy egresado de la carrera de **Ingeniería en Comunicaciones y Electrónica**, forme parte de la especialidad de **Master en Data Science** impartida por **Dev.F** y formo parte del programa **G8 - ONE (Oracle Next Education)** en Alura Latam, donde me encuentro especializándome en Data Science.  
 - 💡 Me apasiona la **tecnología, la inteligencia artificial, la ciencia de datos e ingeniería de datos**.  
 - 🎯 Fomento un aprendizaje continuo y autónomo, consciente de que el sector tecnológico está en constante transformación. Mantenerme al día me permite adaptarme con agilidad a los cambios, perfeccionar mis habilidades y ofrecer soluciones innovadoras que respondan a las demandas actuales del mercado
+
+---
+
+## 🌟 **Proyectos Destacados**
+
+<table>
+  <tr>
+    <th>Juego del Número Secreto</th>
+    <th>Challenge del Amigo Secreto</th>
+    <th>Portafolio Profesional</th>
+  </tr>
+  <tr>
+    <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_1" width="200"></td>
+    <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_2" width="200"></td>
+  </tr>
+  <tr>
+    <td>➮ Un juego interactivo en el que los jugadores intentan adivinar un número secreto dentro de un rango determinado.<br>🔗 <a href="https://github.com/EJoelCM/juego-secreto">Repositorio del proyecto</a></td>
+    <td>➮ Una aplicación web para organizar intercambios de regalos de manera automática y aleatoria.<br>🔗 <a href="https://github.com/EJoelCM/challenge-amigo-secreto_esp-main">Ver repositorio del proyecto</a></td>
+  </tr>
+</table>
+
 ---   
 
 ## 🚀 **Tecnologías, Lenguajes y Herramientas**
@@ -29,4 +50,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EJoelCM&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
----
+
