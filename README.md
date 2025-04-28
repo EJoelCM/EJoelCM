@@ -17,12 +17,12 @@
 
 <table>
   <tr>
-    <th>Juego del Número Secreto</th>
+    <th>Análisis del tamaño de mercado de vehículos eléctricos</th>
     <th>Challenge del Amigo Secreto</th>
     <th>Analisis para venta de tiendas (Alura Store)</th>
   </tr>
   <tr>
-    <td>➮ Un juego interactivo en el que los jugadores intentan adivinar un número secreto dentro de un rango determinado.<br>🔗 <a href="https://github.com/EJoelCM/juego-secreto">Repositorio del proyecto</a></td>
+    <td>➮ Este proyecto analiza el tamaño del mercado de vehículos eléctricos en EE. UU. con Python, evaluando la demanda, la saturación y las oportunidades de crecimiento.<br>🔗 <a href="https://github.com/EJoelCM/analisis_ev">Repositorio del proyecto</a></td>
     <td>➮ Una aplicación web para organizar intercambios de regalos de manera automática y aleatoria.<br>🔗 <a href="https://github.com/EJoelCM/challenge-amigo-secreto_esp-main">Ver repositorio del proyecto</a></td>
     <td>➮ Analisis de ventas de 4 tiendas, con el fin de poder ayudar a decicir que tienda poder vender para poder iniciar un nuevo emprendimiento.<br>🔗 <a href="https://github.com/EJoelCM/Challenge1_DS_AluraStore">Ver repositorio del proyecto</a></td>
   </tr>
