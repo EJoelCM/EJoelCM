@@ -13,7 +13,7 @@
 
 ---
 
-## 🌟 **Proyectos Destacados**
+## 🌟 **Proyectos**
 
 <table>
   <tr>
@@ -27,6 +27,20 @@
     <td>➮ Analisis de ventas de 4 tiendas, con el fin de poder ayudar a decicir que tienda poder vender para poder iniciar un nuevo emprendimiento.<br>🔗 <a href="https://github.com/EJoelCM/Challenge1_DS_AluraStore">Ver repositorio del proyecto</a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>ETL de Datos Web</th>
+    <th>ETL con API Spotipy</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>➮ .<br>🔗 <a href="">Repositorio del proyecto</a></td>
+    <td>➮ .<br>🔗 <a href="">Ver repositorio del proyecto</a></td>
+    <td>➮ .<br>🔗 <a href="">Ver repositorio del proyecto</a></td>
+  </tr>
+</table>
+
 
 ---   
 
