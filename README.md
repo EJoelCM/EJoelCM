@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>➮ .<br>🔗 <a href="">Repositorio del proyecto</a></td>
-    <td>➮ .<br>🔗 <a href="">Ver repositorio del proyecto</a></td>
+    <td>➮ Este proyecto tiene como objetivo crear un archivo CSV, mediante la pipeline ETL se extraeran los datos usando la API de spotify<br>🔗 <a href="https://github.com/EJoelCM/pipeline_etl_spotipy">Ver repositorio del proyecto</a></td>
     <td>➮ .<br>🔗 <a href="">Ver repositorio del proyecto</a></td>
   </tr>
 </table>
